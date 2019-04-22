@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarterApp</string>
+    <string name="start_service">Start Service</string>
+    <string name="end_service">End Service</string>
+</resources>
